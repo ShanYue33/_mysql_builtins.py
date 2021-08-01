@@ -1,0 +1,9 @@
+names=['杨洋','杨欢','周丽','刘育坤']
+print(names[0])
+print(names[1])
+print(names[2])
+print(names[3])
+print(names[0]+"你好啊")
+print(names[1]+"你好啊")
+print(names[2]+"你好啊")
+print(names[3]+"你好啊")
